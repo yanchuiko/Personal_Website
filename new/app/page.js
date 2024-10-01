@@ -156,7 +156,7 @@ export default function Home() {
             </div>
           </div>
           <div className="hero-yellow">
-            <img src="./imgs/hero-image.png" alt="Yan Chuiko"/>
+            <img src="./imgs/test1.png" alt="Yan Chuiko"/>
           </div>
         </section>
         <section className="logos container">
