@@ -1,6 +1,6 @@
 # Personal Website
 
-This is the source code for my personal website. The website is built with React and Next.js, and is hosted on Vercel. It features a clean and modern design, and includes a chatbot powered by Microsoft Azure Open AI.
+This is the source code for my personal website: https://yanchuiko.vercel.app/. The website is built with React and Next.js, and is hosted on Vercel. It features a clean and modern design, and includes a chatbot powered by Microsoft Azure Open AI.
 
 ## Technologies
 HTML, CSS, JavaScript, React, NextJS, Microsoft Azure Open AI, Vercel
