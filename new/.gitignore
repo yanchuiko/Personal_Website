@@ -38,5 +38,3 @@ next-env.d.ts
 
 # secret
 .env
-jsconfig.json
-next.config.mjs
